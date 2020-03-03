@@ -1,23 +1,24 @@
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
+darkmode: true
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Param Popat
+title: MS in Computer Science @ Columbia University
+email: pvp2109@columbia.edu
+# website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: Parampopat
+github_username:  parampopat
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: parampopat
+linkedin_username: parampopat
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -56,6 +57,7 @@ darkmode: true
 sass:
   sass_dir: _sass
   style: compressed
+  darkmode: true
 
 plugins:
  - jekyll-seo-tag
