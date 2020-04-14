@@ -7,10 +7,12 @@ favicon: images/logo.png
 name: Param Popat
 title: MS in Computer Science @ Columbia University
 email: pvp2109@columbia.edu
-mobile: 440-454-4561
+phone: 440-454-4561
 website: parampopat.me/
 
+
 darkmode: true
+
 
 # Social links
 twitter_username: Parampopat
@@ -18,7 +20,7 @@ github_username:  parampopat
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: parampopat
+# instagram_username: parampopat
 linkedin_username: parampopat
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -34,6 +36,7 @@ additional_links:
   icon: fa-file
   url: https://parampopat.me/resume/resume.html
 
+  
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
@@ -63,7 +66,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
