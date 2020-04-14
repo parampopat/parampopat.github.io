@@ -8,7 +8,7 @@ name: Param Popat
 title: MS in Computer Science @ Columbia University
 email: pvp2109@columbia.edu
 mobile: 440-454-4561
-website: https://parampopat.me/
+website: parampopat.me/
 
 darkmode: true
 
@@ -27,7 +27,7 @@ linkedin_username: parampopat
 # Additional icon links
 additional_links:
 - title: Resume
-  icon: images/logo.png
+  icon: fa-file
   url: https://parampopat.me/resume/resume.html
 
 # About Section
