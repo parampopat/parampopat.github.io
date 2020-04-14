@@ -30,8 +30,6 @@ additional_links:
   icon: fa-medium
   url: https://medium.com/@parampopat
 
-  
-additional_links:
 - title: Resume
   icon: fa-file
   url: https://parampopat.me/resume/resume.html
@@ -66,12 +64,10 @@ footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
-darkmode: true
 
 sass:
   sass_dir: _sass
   style: compressed
-  darkmode: true
 
 plugins:
  - jekyll-seo-tag
