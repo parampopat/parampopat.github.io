@@ -27,7 +27,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Param and I'm a Computer Science Graduate working towards developing Fair and Robust Machine learning Systems.
 
-  I am most skilled in: <mark>Tensorflow</mark> and <mark>Python</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>SQL</mark>, <mark>Tensorflow</mark>, <mark>AWS</mark> and <mark>Tableau</mark>
 
 # Projects Section
 # projects_title: Projects
