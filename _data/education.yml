@@ -1,8 +1,9 @@
 - layout: left
   name: Columbia University
-  dates: 2019 - 2020 \n 3.915/4
+  dates: 2019 - 2020
   qualification: MS Computer Science
-  quote: >
+  quote: > 
+    GPA 3.915/4
   description: | # this will include new lines to allow paragraphs
     During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -10,10 +11,10 @@
 
 - layout: left
   name: Nirma University
-  dates: 2015 - 2019 \n 9.12/10
+  dates: 2015 - 2019
   qualification: B. Tech Computer Engineering
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    GPA 9.12/10
   description: | # this will include new lines to allow paragraphs
     During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
