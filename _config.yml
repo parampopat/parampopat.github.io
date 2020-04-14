@@ -26,6 +26,12 @@ linkedin_username: parampopat
 
 # Additional icon links
 additional_links:
+- title: Medium
+  icon: fa-medium
+  url: https://medium.com/@parampopat
+
+  
+additional_links:
 - title: Resume
   icon: fa-file
   url: https://parampopat.me/resume/resume.html
