@@ -1,12 +1,12 @@
 - layout: left
-  company: Dailight US Corp (AI ZWEI)
+  company: Dailight (AI ZWEI)
   link: https://www.aizwei.com/
   job_title: AI Research Intern
   dates: May 2020 - Current
   quote: >
    AutoML with Optimized Model Delivery for Inference.
   description: | # this will include new lines to allow paragraphs
-    Under Construction
+    Developing an AutoML bot with the focus on providing optimized deployment ready solutions to the user. Researching ways to optimize end-user model through Pruning, Twinning, and Quantization and incorporate adversarial robustness.
 
 - layout: left
   company: Bosch
@@ -17,7 +17,9 @@
    Machine Learning Security and Recommendation Engine.
   description: | # this will include new lines to allow paragraphs
     Designed flow to test for vulnerabilities in existing Machine Learning systems, including attacks such as Adversarial attacks and Model Stealing.
+    
     Developed and Patented methods to protect AI systems incorporating Convolutional Neural Networks (CNN), LSTMs, and traditional ML techniques from vulnerabilities. This work opened a new business avenue for Bosch where they provide protection services for ML systems. 
+    
     Developed Recommendation Engine for Hypermarket use-case incorporating active research in Generative Networks and AutoEncoder based Recommendation Engines. Achieved a 70% hit rate in the purchase of products from the items recommended to a user as compared to a pre-existing system giving a 25% hit rate.
     
 - layout: left
@@ -29,7 +31,9 @@
    Stock Market Prediction through Statistical Indicators and Machine Learning.
   description: | # this will include new lines to allow paragraphs
     Analysed a wide variety of external factors that affect the Indian Stock Market and Engineered Neural Network systems to incorporate the delayed correlation effects between stocks and factors strongly affecting their movement. 
+    
     Developed an Ensemble of Statistical Cross-Correlation, Causal relationships and time-series machine learning models like LSTM to predict a mix of profiteering stocks with their movement 1 week ahead and auto-invest in them. This system gave up to 48% returns over an investment period of 12 months.
+    
     Evaluated the seasonality in stocks where some escalate in specific periods like holidays and devised a GRU based Neural Network model to investigate prominent seasonality in all the National Stock Exchange, IN listed companies and output an ideal time to invest and divest for optimum profits. Structured an ensemble of seasonality and the effect of external factors on stock, this accelerated the year-over-year returns to 65%.
 
 - layout: left
@@ -41,5 +45,7 @@
    AI-Enabled Photography Services.
   description: | # this will include new lines to allow paragraphs
     Designed an AI-based Snap pipeline to auto-edit photographs, resize, compress, and package them for expedited delivery times. This pipeline achieved a reduction of 60% in the time taken from the event to the final delivery as compared to the manual process, thus delivering photos in 4 days instead of standard 10 business days.
+    
     Developed an API based web-app to electronically deliver rendered photos to clients with a secure OTP mechanism and to manage collision-free Event bookings. This system would also fetch and upload finished photos from the Snap pipeline, and allow photographers to keep a track of photos requiring personal attention.
+    
     Managed a team of 5 photographers and freelancers catering 300+ clients, covering open-mics, poetry events, conferences, etc.
