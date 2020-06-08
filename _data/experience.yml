@@ -1,22 +1,36 @@
 - layout: left
+  company: Dailight US Corp (AI ZWEI)
+  link: https://www.aizwei.com/
+  job_title: AI Research Intern
+  dates: May 2020 - Current
+  quote: >
+   AutoML with Optimized Model Delivery for Inference.
+  description: | # this will include new lines to allow paragraphs
+    Under Construction
+
+- layout: left
   company: Bosch
   link: https://www.bosch-india-software.com/en/
   job_title: Artificial Intelligence Intern
   dates: January 2019 - May 2019
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Machine Learning Security and Recommendation Engine.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+    Designed flow to test for vulnerabilities in existing Machine Learning systems, including attacks such as Adversarial attacks and Model Stealing.
+    Developed and Patented methods to protect AI systems incorporating Convolutional Neural Networks (CNN), LSTMs, and traditional ML techniques from vulnerabilities. This work opened a new business avenue for Bosch where they provide protection services for ML systems. 
+    Developed Recommendation Engine for Hypermarket use-case incorporating active research in Generative Networks and AutoEncoder based Recommendation Engines. Achieved a 70% hit rate in the purchase of products from the items recommended to a user as compared to a pre-existing system giving a 25% hit rate.
+    
 - layout: left
   company: CanaryMail
   link: https://canarymail.io/
   job_title: Machine Learning Intern
   dates: May 2018 - July 2018
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Stock Market Prediction through Statistical Indicators and Machine Learning.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Analysed a wide variety of external factors that affect the Indian Stock Market and Engineered Neural Network systems to incorporate the delayed correlation effects between stocks and factors strongly affecting their movement. 
+    Developed an Ensemble of Statistical Cross-Correlation, Causal relationships and time-series machine learning models like LSTM to predict a mix of profiteering stocks with their movement 1 week ahead and auto-invest in them. This system gave up to 48% returns over an investment period of 12 months.
+    Evaluated the seasonality in stocks where some escalate in specific periods like holidays and devised a GRU based Neural Network model to investigate prominent seasonality in all the National Stock Exchange, IN listed companies and output an ideal time to invest and divest for optimum profits. Structured an ensemble of seasonality and the effect of external factors on stock, this accelerated the year-over-year returns to 65%.
 
 - layout: left
   company: The SnapFactory
@@ -24,6 +38,8 @@
   job_title: Founder
   dates: June 2016 - July 2019
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   AI-Enabled Photography Services.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Designed an AI-based Snap pipeline to auto-edit photographs, resize, compress, and package them for expedited delivery times. This pipeline achieved a reduction of 60% in the time taken from the event to the final delivery as compared to the manual process, thus delivering photos in 4 days instead of standard 10 business days.
+    Developed an API based web-app to electronically deliver rendered photos to clients with a secure OTP mechanism and to manage collision-free Event bookings. This system would also fetch and upload finished photos from the Snap pipeline, and allow photographers to keep a track of photos requiring personal attention.
+    Managed a team of 5 photographers and freelancers catering 300+ clients, covering open-mics, poetry events, conferences, etc.
