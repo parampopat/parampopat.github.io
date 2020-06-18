@@ -1,7 +1,7 @@
 - layout: left
   name: Quick-ML: E-mail Based ML Prototyping with AWS
-  link: https://pvpdocu.s3.amazonaws.com/Quick-ML.pdf
-  github: 
+  link: pvpdocu.s3.amazonaws.com/Quick-ML.pdf
+  github: parampopat/parampopat.github.io
   quote: >
     AWS SageMaker, Lambda, SES, SNS, S3, CloudFormation, API-Gateway
   description: | # this will include new lines to allow paragraphs
