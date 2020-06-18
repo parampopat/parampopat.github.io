@@ -1,8 +1,8 @@
 - layout: left
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Quick-ML: E-mail Based ML Prototyping with AWS
+  link: https://pvpdocu.s3.amazonaws.com/Quick-ML.pdf
+  github: 
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    AWS SageMaker, Lambda, SES, SNS, S3, CloudFormation, API-Gateway
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Developed an API-based Machine Learning prototyping tool that requires the user to select the type of task and provide data. The pipeline then trains and deploys (SageMaker) an ML endpoint (Lambda) which can be used via e-mailing/ texting the user-specified e-mail id (SES/SNS).
